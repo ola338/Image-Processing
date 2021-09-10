@@ -8,5 +8,5 @@ The project also includes implementations of median filter, uniform filter, grad
 - Language: Python 
 - Libraries: Scikit-image, SciPy, NumPy, Matplotlib
 
-## Inspirations
-The application was created as a part of the university subject Technologies of Medical Imaging
+## Inspiration
+The application was created as a part of the university subject Technologies of Medical Imaging.
