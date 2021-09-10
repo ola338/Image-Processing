@@ -5,5 +5,5 @@ The project also includes implementations of median filter, uniform filter, grad
 
 
 ## Used Technologies 
-- Language: Python 3.9
-- Libraries: skimage, scipy, numpy, matplotlib.pyplot
+- Language: Python 
+- Libraries: Scikit-image, SciPy, NumPy, Matplotlib
